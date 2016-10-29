@@ -1,0 +1,5 @@
+Toast.makeText(this, "NFC Not Available", Toast.LENGTH_LONG).show();
+
+Toast.makeText(this, "NFC Available", Toast.LENGTH_LONG).show();
+
+Android NFC Tutorial [02] - How to detect a tag with foreground dispatch system (4:52)
